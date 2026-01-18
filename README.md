@@ -1,9 +1,10 @@
 # Тестовое задание 
-## 1. Запуск docer compose
+## 1. Создать файл .env, идентичный .env.example
+## 2. Запуск docker compose
 ```
 docker compose up --build
 ```
-## 2. Swagger UI
+## 3. Swagger UI
 Перейти на http://127.0.0.1:8000/docs 
 
 Для краулера POST `/crawl` - параметры как в ТЗ
